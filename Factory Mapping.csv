@@ -1,0 +1,23 @@
+Factory,Latitude,Longitude
+Lot's O' Nuts,32.881893,-111.768036
+Wicked Choccy's,32.076176,-81.088371
+Sugar Shack,48.11914,-96.18115
+Secret Factory,41.446333,-90.565487
+The Other Factory,35.1175,-89.971107
+Division,Product Name,Factory
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts
+Chocolate,Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's
+Sugar,Laffy Taffy,Sugar Shack
+Sugar,SweeTARTS,Sugar Shack
+Sugar,Nerds,Sugar Shack
+Sugar,Fun Dip,Sugar Shack
+Other,Fizzy Lifting Drinks,Sugar Shack
+Sugar,Everlasting Gobstopper,Secret Factory
+Sugar,Hair Toffee,The Other Factory
+Other,Lickable Wallpaper,Secret Factory
+Other,Wonka Gum,Secret Factory
+Other,Kazookles,The Other Factory
+,,
